@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+/* Your custom CSS styles */
+
+/* Optional: Add custom styles to the navbar or its elements */
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
